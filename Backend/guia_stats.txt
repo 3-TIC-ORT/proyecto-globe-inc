@@ -1,0 +1,40 @@
+STATS
+Cuenta:
+    - Nombre de Cuenta
+    - Contraseña (SECRETO)
+    - Percentil de jugadores (REVISAR)
+
+Diario:
+    Principales:
+        - Racha
+        - Victorias sobre intentos (x/y)
+        - Porcentaje de efectividad
+    Secundarias
+        - Racha más larga
+        - Partida más rápida
+        - Tiempo promedio
+        - Partidas jugadas
+
+Adivinar:
+    Principales:
+        - Racha
+        - Victorias sobre intentos (x/y)
+        - Porcentaje de efectividad
+    Secundarias:
+        - Racha más larga
+        - Partida más rápida
+        - Tiempo promedio
+        - Partidas jugadas
+
+Mayor o menor:
+    Principales:
+        - Récord
+        - Racha de días
+    Secundarias:
+        - Categoría con mas aciertos
+        - País con más aciertos
+
+General:
+    - Datos agotados
+
+FORMATO PARA STATS

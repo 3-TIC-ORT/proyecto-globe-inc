@@ -1,0 +1,17 @@
+PETICIONES FRONT
+
+MODO DIARIO:
+    - Dar país del día
+    - Dar pistas
+        a. Buscar dentro del país del día una categoría que haya y sin agotar
+        b. PENSAR DIFICULTAD
+        c. Enviar al front: nombre de categoría, y valor
+    - Recibir intentos
+        a. Comparar con el país del día
+        b. Si es correcto terminar y guardar stats de la partida.
+
+MODO ADIVINAR
+    - Dar país random / del día
+    - Generar categorías para bloques
+
+(en curso)
