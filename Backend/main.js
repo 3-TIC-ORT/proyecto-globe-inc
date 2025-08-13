@@ -4,7 +4,7 @@ function contienedato(pais,dato) {
 
 }
 
-function buscardato(pais,dato) {
+function traerdato(pais,dato) {
 
 }
 

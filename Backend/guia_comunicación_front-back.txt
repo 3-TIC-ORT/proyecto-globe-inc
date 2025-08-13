@@ -13,5 +13,20 @@ MODO DIARIO:
 MODO ADIVINAR
     - Dar país random / del día
     - Generar categorías para bloques
+        a. Buscar categorías no agotadas
+        b. Chequear dificultad
+    - Recibir orden de bloques
+        a. Comparar dato otorgado con todos los países
+        b. Marcar como descartados los que no entran
+        c. Devolver los que hay que marcar en gris
+
+MODO MAYOR O MENOR
+    - Dar país de inicio (al azar, público para usuario)
+    - Dar categoría de inicio y dato del país 1
+    - Generar un país 2
+    - Recibir si el usuario puso mayor o menor 
+        a. Comparar el dato del país 1 con el del país 2
+        b. Si el usuario tuvo éxito, el país 2 se vuelve el 1 y se genera otro dato
+    - Dar categoría nueva tras cierto tiempo
 
 (en curso)
