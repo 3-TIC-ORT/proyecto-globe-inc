@@ -1,0 +1,39 @@
+.pantalla{
+    width: 1920px;
+height: 1080px;
+background: #FFF;
+}
+
+#rectangulo1{
+    width: 340px;
+    height: 685px;
+    flex-shrink: 0;
+    border-radius: 25px;
+background: #D9D9D9;
+position: absolute;
+  top: 262px;
+  left: 149px;
+}
+
+#rectangulo2{
+    width: 340px;
+height: 685px;
+flex-shrink: 0;
+border-radius: 25px;
+background: #D9D9D9;
+position: absolute;
+top: 262px;
+left: 790px;
+}
+
+#rectangulo3{
+    width: 340px;
+    height: 685px;
+    flex-shrink: 0;
+    border-radius: 25px;
+    background: #D9D9D9; 
+    position: absolute;
+    top: 262px;
+    left: 1431px;
+}
+
