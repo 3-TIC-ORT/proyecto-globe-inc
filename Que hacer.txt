@@ -1,12 +1,12 @@
 FRONT
-- Pop up log in inicio boton aceptar (estirar)
 - ARREGLAR LOGOS DE TODO (front + timi)
+- Cortar envio de stats al back en MayorMenor si el modo es fácil
+- Hacer mas lindo/funcional el MODO DIARIO
 - Cambiar botones a blanco
-- Botones y pop up ganaste
-- MODO DIARIO 
-- Récords (back + front)
+- Botones y pop up ganaste 
+- Mejorar Récords en el front (una tarjeta para cada modo)
 - Cambiar fotos inicio
-- Log Out
+- Pop up log in inicio boton aceptar (estirar)
 
 BACK
 - Récords{
