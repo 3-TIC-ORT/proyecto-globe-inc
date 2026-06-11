@@ -1,4 +1,5 @@
 FRONT
+- https://github.com/leankkk/GlobiQ
 - ARREGLAR LOGOS DE TODO (front + timi)
 - Cortar envio de stats al back en MayorMenor si el modo es fácil
 - Hacer mas lindo/funcional el MODO DIARIO
